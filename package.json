@@ -1,6 +1,6 @@
 {
-  "name": "@moncici/binance",
-  "version": "1.0.3",
+  "name": "web33Mc",
+  "version": "1.1.3",
   "description": "",
   "type": "module",
   "main": "coin_scan_binance.js",
@@ -9,24 +9,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moncici007/binance"
+    "url": "https://github.com/mmcc7555/binance"
   },
-  "website": "https://github.com/moncici007/binance.git",
+  "website": "https://github.com/mmcc7555/binance.git",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "moncici007",
+  "author": "mmcc7559",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/moncici007/binance/issues"
+    "url": "https://github.com/mmcc7555/binance/issues"
   },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/moncici007/binance#readme",
+  "homepage": "https://github.com/mmcc7555/binance#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
