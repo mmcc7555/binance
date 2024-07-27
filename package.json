@@ -1,7 +1,7 @@
 {
-  "name": "web33Mc",
+  "name": "web33mmcc",
   "version": "1.1.4",
-  "description": "",
+  "description": "web3",
   "type": "module",
   "main": "coin_scan_binance.js",
   "scripts": {
@@ -9,24 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmcc7555/binance"
+    "url": "git+https://github.com/mmcc7555/binance.git"
   },
-  "website": "https://github.com/mmcc7555/binance.git",
+  "bugs": {
+    "url": "https://github.com/mmcc7555/binance/issues"
+  },
+  "homepage": "https://github.com/mmcc7555/binance#readme",
   "keywords": [
     "binance",
     "client",
     "arbitrim"
   ],
-  "author": "mmcc7559",
+  "author": " mmcc7559@gmail.com",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mmcc7555/binance/issues"
-  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "homepage": "https://github.com/mmcc7555/binance#readme",
   "dependencies": {
     "@moncici/date-time-processor": "^1.0.3",
     "@moncici/log": "^1.0.2",
